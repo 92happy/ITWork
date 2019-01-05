@@ -1,0 +1,159 @@
+@charset "utf-8";
+/* CSS Document */
+#top_menu {
+	margin-left:600px;
+}
+body{
+	margin:0px;
+	width:100%;
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+	background-color:#FFFFFF;
+}
+#body-one{
+	width:100%;
+	#border:1px solid #FFFFFF;
+	background-color:#FFFFFF;
+}
+#head{
+	width:100%;
+
+	#float:right;
+	background-color:#FFFFFF;
+	#border:1px solid yellow;
+	vertical-align:top;
+}
+#logo{
+	margin-left:0px;
+	text-align:left;
+}
+#mian{
+
+	background-color:#FFFFFF;
+
+	#border:1px solid yellow;
+
+}
+#mian-content{
+	width:100%;
+	margin:auto;
+	
+	#border:1px solid dimgray;
+}
+#footer{
+	width:1024px;
+	height:120px;
+	background-color:#FFFFFF;
+	#margin-bottom:0px;
+	#border:1px solid yellow;
+	#position:absolute;
+	bottom:0px;
+	text-align:center;
+	z-index:2;
+	overflow:hidden;
+
+}
+table {  
+	border: 1px solid #B1CDE3;  
+	padding:0;   
+	margin:0 auto;  
+	border-collapse: collapse;  
+}  
+  th {
+  	border: 1px solid #B1CDE3;  
+	font-size:14px;  
+	padding: 6px 6px 6px 6px;  
+	color: #4f6b72;  
+	background-color: #ECF5FF;
+	height:42px;
+  }
+td {  
+	border: 1px solid #B1CDE3;  
+	background: #fff;  
+	font-size:14px;  
+	padding: 6px 6px 6px 6px;  
+	color: #4f6b72;  
+	text-align:left;
+	height:38px;
+}  
+#p_stytle {
+	text-align:left;
+	padding-left:10px;
+}
+#input-sub{
+	width:50px;
+	height:20px;
+	border:1px solid #FFFFFF;
+	font-size:12px;
+	text-align:left;
+	padding-left:50px;
+	color:#FFFFFF;
+
+}
+#reg{
+	#float:left;
+	width:95px;
+	height:30px;
+	font-size:14px;
+	background-image:url(../images/reg.jpg);
+	padding-top:8px;
+	#border:1px solid yellow;
+}
+
+#main-a{
+	
+
+}
+input {
+	width: 90px; 
+ font-size: 14px;
+ height: 30px;
+ border: 1px solid #1675AD;
+ margin: 1px;
+ padding: 1px;
+}
+select {
+ font-size: 14px;
+ height: 30px;
+ border: 1px solid #1675AD;
+ margin: 1px;
+ padding: 1px;
+}
+#input-date{
+	width: 80px; 
+	height: 30;
+	font-size:14;
+	padding-left:0px;
+}
+
+
+#index-input{
+	width: 200px; 
+	height: 30;
+	font-size:14;
+	padding-left:0px;
+}
+
+A:link {
+ color: #000000;
+ TEXT-DECORATION: none
+}
+A:visited {
+ COLOR: #000000;
+ TEXT-DECORATION: none
+}
+A:hover {
+ COLOR: #ff7f24;
+ text-decoration: underline;
+}
+A:active {
+ COLOR: #ff7f24;  
+ text-decoration: underline;
+}
+img {
+	border-width: 0px 0px 0px 0px
+}
+#td-bj{
+	background-color: #ECF5FF;
+}
